@@ -25,7 +25,7 @@ export const getAllproductos = async (categoria) => {
 
 
 export const getProductosXId = async (id) => {
-  const docRef = doc(db, "items", id);// Arma la petición (?)
+  const docRef = doc(db, "items", id);// Arma la petición 
   const docSnap = await getDoc(docRef);// Ejecuta la busqueda de ese documento
 
 

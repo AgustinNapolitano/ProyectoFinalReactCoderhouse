@@ -7,10 +7,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 nav{
-    background-color: #F9F4F5;
-    color: #000;
+    background-color: #0f1e5f;
+    color: #756568;
     width: 100%;
-    box-shadow: 1px 1px 20px rgba(234, 0, 255, 0.808);
+    box-shadow: 1px 1px 20px rgba(6, 129, 245, 0.808);
 
 }
 
@@ -25,7 +25,7 @@ nav{
 
 .logo:hover{
     transition: .5s all;
-    text-shadow: 0px 0px 5px rgba(234, 0, 255, 0.808);
+    text-shadow: 0px 0px 5px rgba(183, 2, 255, 0.808);
 }
 
 .nav-container{
@@ -51,14 +51,14 @@ nav{
 }
 
 .ul-li a{
-    color: #000;
+    color: #c5e705;
     text-decoration: none;
     font-weight: bold;
 }
 
 .ul-li a:hover{
     transition: .5s all;
-    text-shadow: 0px 0px 5px rgba(234, 0, 255, 0.808);
+    text-shadow: 0px 0px 5px rgba(183, 2, 255, 0.808);
 }
 
 
